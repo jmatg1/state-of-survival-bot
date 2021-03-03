@@ -10,3 +10,5 @@ Allow BluesStacks to connect with Discrod
 Add path `C:\Program Files\BlueStacks\ (Default Path)` on the Environment Windows  
 or Change hd-adb in the code to `C:\Program Files\BlueStacks\hd-adb.exe`
 
+## Settings Game
+Set Russian language
